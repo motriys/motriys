@@ -1,7 +1,15 @@
-### Hello, I'm Matvey 👋
+
+<div align=center>
+  
+ # Hello, I'm Matvey 👋 
+  
+</div>
 
 <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/motriys)</a>
+
+
 ## Languages and tools 🔧
+
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
 ![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
