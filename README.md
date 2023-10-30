@@ -1,4 +1,4 @@
-### Hello, my name is Matvey Korablin 👋
+### Hello, I'm Matvey 👋
 
 <!--
 **motriys/motriys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
