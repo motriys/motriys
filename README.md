@@ -7,7 +7,7 @@
 
 ### :man_technologist: Обо мне:
 
-
+- Начинающий Data Scientist
 - :mailbox:Как связаться со мной: <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/motriys)</a>
 
 
